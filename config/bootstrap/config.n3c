@@ -1,0 +1,1 @@
+{"version":{"main":1,"editor":1},"result":["Object",{"api":["Object",{"server":["Object",{"port":["Number",3002],"timeout":["Number",15000],"restartDelay":["Number",60000]}]}],"ae":["Object",{"history":["Object",{"enabled":["Boolean",false],"module":["String",""]}]}],"simulation":["Object",{"rate":["Number",5000]}]}],"editor":{"extends":{"module":"."},"modified":1582415141792}}

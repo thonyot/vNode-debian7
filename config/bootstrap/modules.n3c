@@ -1,0 +1,24 @@
+{
+	"version" : {
+		"main" : 1,
+		"editor" : 1
+	},
+	"result" : ["Object", {
+			"WebUI" : ["Object", {
+					"type" : ["String", "WebUI"],
+          "required" : ["Boolean", false],
+					"start" : ["Object", {
+							"enabled" : ["Boolean", true],
+							"delay" : ["Number", 0]
+						}
+					],
+					"monitor" : ["Object", {
+							"enabled" : ["Boolean", true],
+							"delay" : ["Number", 10000]
+						}
+					]
+				}
+			]
+		}
+	]
+}

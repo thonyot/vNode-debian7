@@ -1,0 +1,18 @@
+{
+	"version" : {
+		"main" : 1,
+		"editor" : 1
+	},
+	"templates" : {},
+	"result" : ["Object", {
+			"/" : ["Object", {
+					"description" : ["String", "Root folder"],
+					"groups" : ["Object", {}
+					],
+					"tags" : ["Object", {}
+					]
+				}
+			]
+		}
+	]
+}

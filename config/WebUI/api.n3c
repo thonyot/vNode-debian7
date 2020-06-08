@@ -1,0 +1,1 @@
+{"version":{"main":1,"editor":1},"result":["Object",{"eventRate":["Number",1000],"timeout":["Number",5000],"keepAlivePeriod":["Number",60000]}],"editor":{"extends":{"module":null},"modified":1589454329471}}
